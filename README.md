@@ -22,7 +22,7 @@
 
  </h4>    
 
-
+<h4>
  mood-quote-generator 
   ├── public/ │ 
        ├── index.html │
@@ -33,7 +33,7 @@
      ├── .env 
      ├── package.json
 
-
+</h4>
 
 <h3>Note:Hide the .env file and dont use directly in frontend</h3>
 <h4>.env</h4>
