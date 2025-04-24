@@ -10,6 +10,7 @@
 - 🔐 API keys secured with environment variables (`.env`)
 - 🔧 Tested using Thunder Client
 
+
 🛠️ Tech Stack
 
 | Layer      | Tech Used           |
@@ -18,6 +19,8 @@
 | Backend    | Node.js, Express.js |
 | AI API     | Hugging Face Inference API |
 | Tools      | Thunder Client, .env, VS Code |
+
+ </h4>    
 
 
  mood-quote-generator 
@@ -30,7 +33,7 @@
      ├── .env 
      ├── package.json
 
- </h4>    
+
 
 <h3>Note:Hide the .env file and dont use directly in frontend</h3>
 <h4>.env</h4>
