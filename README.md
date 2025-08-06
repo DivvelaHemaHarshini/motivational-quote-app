@@ -1,4 +1,4 @@
-<h1>💬 Mood-based Quote Generator</h1>
+<h1>💬 Motivational Quote Generator</h1>
 <h3>A full-stack AI-powered web app that generates motivational quotes based on your current mood using the Hugging Face API.</h3>
 
 <h4>🌟 Features
